@@ -1,0 +1,16 @@
+
+{
+    "title": "Electro Infiltrator",
+    "name": "electro-infiltrator",
+    "description": "Electro Infiltrator Dark 80's Theme for Brackets. Just add some synthwave in the background and you're in the 80's. A Brackets original.",
+    "version": "1.0.1",
+    "author": "C.D",
+    "homepage": "https://github.com/Brackets-Themes/ElectroInfiltrator",
+    "license": "MIT",
+    "theme": {
+        "file": "electroinfiltrator.css",
+        "dark": true
+    },
+
+    "keywords": ["theme"]
+}
